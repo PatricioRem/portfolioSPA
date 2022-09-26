@@ -1,0 +1,62 @@
+{
+	"nombre": "Patricio Andrés",
+	"apellido": "Remotti",
+    "position": "Developer Full Stack Jr.",
+	"descripcion": "Este es un perfil dedicado a la presentación del trabajo final del curso del plan 'Argentina Programa': #YoProgramo, que consiste en la demostración de los diversos conocimientos adquiridos durante el mismo.",
+	"genero": "masculino",
+	"edad": 41,
+    "profileImage": "./assets/yo.jpg",
+    "bannerImage": "./assets/banner.jpg",
+    "logoImage": "./assets/logoAP.png",
+	"direccion": {
+		"calle": "Las Heras",
+		"ciudad": "Capital",
+		"provincia": "CABA",
+		"codigoPostal": "1425"
+	},
+	"telefono": [{
+		"tipo": "celular",
+		"numero": "61177404"
+	}],
+	"experience": [{
+		"position": "Cantante",
+		"company": "Coro Nacional de Música Argentina · Ministerio de Cultura de la Nación",
+		"img": "./assets/mincultura.jpg",
+		"start": "ene 2001",
+		"end": "actualidad"
+	}],
+	"education": [{
+
+		"school": "Secretaría de Desarrollo Productivo · Instituto Nacional de Tecnología Industrial",
+		"title": "Argentina Programa",
+		"img": "./assets/logoAP.png",
+		"career": "#YoProgramo",
+		"start": "jun 2022",
+		"end": "actualidad"
+	},
+	{
+		"school": "Ministerio de Desarrollo Productivo · Instituto Nacional de Tecnología Industrial",
+		"title": "Argentina Programa",
+		"img": "./assets/logoAP.png",
+		"career": "#SeProgramar",
+		"start": "feb 2022",
+		"end": "abr 2022"
+	},
+	{
+		"school": "Colegio Modelo Lomas",
+		"title": "Bachiller con orientación en informática",
+		"img": "./assets/colegiomodelolomas.png",
+		"start": "1995",
+		"end": "1999"
+	}],
+	
+		
+		"frontEnd":[ "HTML5", "CSS3", "JavaScript", "Angular"],
+	
+	
+		"backEnd": ["MySQL", "Java", "Spring Boot"] 
+
+					
+
+	}
+
